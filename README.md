@@ -1,2 +1,1 @@
-배포
-firebase deploy --only functions
+배포 코드 : firebase deploy --only functions
